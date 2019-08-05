@@ -1,0 +1,3 @@
+/* CLI WELCOME */
+
+module.exports = () => {};

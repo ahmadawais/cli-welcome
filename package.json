@@ -1,0 +1,21 @@
+{
+	"name": "cli-welcome",
+	"version": "0.0.1",
+	"description": "Welcome header for Node.js CLI software.",
+	"license": "MIT",
+	"repository": "ahmadawais/cli-welcome",
+	"author": {
+		"name": "Ahmad Awais",
+		"email": "me@AhmadAwais.com",
+		"url": "https://twitter.com/MrAhmadAwais"
+	},
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"cli-welcome",
+		"Ahmad Awais",
+		"ahmadawais"
+	]
+}

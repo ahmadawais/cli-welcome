@@ -1,0 +1,5 @@
+{
+	"replaceText": {
+		"(NEW|IMPROVE|FIX|DOC|RELEASE|TEST): ": ""
+	}
+}
