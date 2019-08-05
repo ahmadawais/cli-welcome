@@ -5,7 +5,7 @@
 
 > Welcome header for Node.js CLI software.
 
-<br />
+<br>
 
 [![📟](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/install.png)](./../../)
 
@@ -15,7 +15,7 @@
 npm install cli-welcome
 ```
 
-<br />
+<br>
 
 [![⚙️](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/usage.png)](./../../)
 
@@ -29,7 +29,7 @@ welcome(`Welcome CLI`, `by Ahmad Awais`);
 welcome(`Welcome CLI`, `by Ahmad Awais`, { bgColor: `#FADC00`, color: `#000000` bold: true, clear: true, version: `v1.0`});
 ```
 
-<br />
+<br>
 
 [![📃](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/options.png)](./../../)
 
@@ -51,46 +51,47 @@ CLI sub heading without highlight but dimmed.
 
 #### ❯ options
 
-Type: `object`
+Type: `object`<br>
+Default: `{}` (optional)
 
 You can specify the options below.
 
 ##### clear
 
-Type: `boolean`
+Type: `boolean`<br>
 Default: `true`
 
 Clear console.
 
 ##### bold
 
-Type: `boolean`
+Type: `boolean`<br>
 Default: `true`
 
 Bold heading text.
 
 ##### bgColor
 
-Type: `string`
+Type: `string`<br>
 Default: `#ffffff`
 
 Background color highlight for `heading`.
 
 ##### color
 
-Type: `string`
+Type: `string`<br>
 Default: `true`
 
 Text color for `heading`.
 
 ##### version
 
-Type: `string`
-Default: `` (empty string)
+Type: `string`<br>
+Default: `(empty string)`
 
 Print version text.
 
-<br />
+<br>
 
 [![📝](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/log.png)](changelog.md)
 
@@ -98,7 +99,7 @@ Print version text.
 
 [❯ Read the changelog here →](changelog.md)
 
-<br />
+<br>
 
 <small>**KEY**: `📦 NEW`, `👌 IMPROVE`, `🐛 FIX`, `📖 DOC`, `🚀 RELEASE`, and `✅ TEST`
 
@@ -106,7 +107,7 @@ Print version text.
 
 </small>
 
-<br />
+<br>
 
 [![📃](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/license.png)](./../../)
 
@@ -115,7 +116,7 @@ Print version text.
 - MIT © [Ahmad Awais](https://twitter.com/MrAhmadAwais/)
 - [Code of Conduct](code-of-conduct.md)
 
-<br />
+<br>
 
 [![🙌](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/connect.png)](./../../)
 
@@ -129,7 +130,7 @@ Print version text.
     <p><a href="https://www.linkedin.com/in/MrAhmadAwais/"><img alt="LinkedIn @MrAhmadAwais" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorB=0077b5&colorA=0077b5&style=flat" /></a>&nbsp;<small><strong>(connect)</strong> On the LinkedIn profile y'all</small></p>
 </div>
 
-<br />
+<br>
 
 [![👌](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/sponsor.png)](./../../)
 
@@ -142,13 +143,13 @@ Me ([Ahmad Awais](https://twitter.com/mrahmadawais/)) and my incredible wife ([M
 - 🔰  **$49.99 (one-time sponsor)** ❯ [Support an hour of maintenance →](https://pay.paddle.com/checkout/527253)
 - ☕️  **$9.99 (one-time sponsor)** ❯ [Lunch/coffee →](https://pay.paddle.com/checkout/527254)
 
-<br />
+<br>
 
 Or you can back me by checking out my super fun video course. As developers, we spend over 200 Hrs/month with our code editors — it's only fair to learn your next editor deeply. This course will save you 15-20 hours every month.  <a href="https://vscode.pro/?utm_source=GitHubFOSS" target="_blank">Become a VSCode Power User</a> →</p>
 
-<a href="https://vscode.pro/?utm_source=GitHubFOSS" target="_blank"><img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/images/vscodepro/VSCode.jpeg" /><br /><strong>VSCODE</strong></a>
+<a href="https://vscode.pro/?utm_source=GitHubFOSS" target="_blank"><img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/images/vscodepro/VSCode.jpeg" /><br><strong>VSCODE</strong></a>
 
-<br />
+<br>
 
 [![VSCode](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorB=4D2AFF&style=flat)](https://VSCode.pro/?utm_source=GitHubFOSS)
 [![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
