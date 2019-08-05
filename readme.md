@@ -29,6 +29,8 @@ welcome(`Welcome CLI`, `by Ahmad Awais`);
 welcome(`Welcome CLI`, `by Ahmad Awais`, { bgColor: `#FADC00`, color: `#000000` bold: true, clear: true, version: `v1.0`});
 ```
 
+![img](https://on.ahmda.ws/62bbed/c)
+
 <br>
 
 [![📃](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/options.png)](./../../)
@@ -90,6 +92,11 @@ Type: `string`<br>
 Default: `(empty string)`
 
 Print version text.
+
+##### newLine
+
+Type: `boolean`<br>
+Default: `false`
 
 <br>
 
