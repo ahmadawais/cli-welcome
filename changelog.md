@@ -29,6 +29,18 @@ I have released a video course to help you become a better developer — <a href
 
 <br>
 
+### RELEASE: [1.3.0](https://github.com/ahmadawais/cli-welcome/compare/1.2.0...1.3.0)
+
+![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 badge [`0656e3b`](https://github.com/ahmadawais/cli-welcome/commit/0656e3b6e86fa180686ab7182754faa5a532c1d7) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: [1.2.0](https://github.com/ahmadawais/cli-welcome/compare/1.1.0...1.2.0)
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
@@ -41,6 +53,7 @@ I have released a video course to help you become a better developer — <a href
 
 ![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
+>  📖 Changelog update [`a12abaa`](https://github.com/ahmadawais/cli-welcome/commit/a12abaabb159ffa39d7e329e4acfa0782fe28892) <br>
 >  📖 Changelog update [`ff244d8`](https://github.com/ahmadawais/cli-welcome/commit/ff244d82506438e28d694615cad5633cac5aaa5b) <br>
 
 <br>
