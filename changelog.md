@@ -29,11 +29,15 @@ I have released a video course to help you become a better developer — <a href
 
 <br>
 
-### RELEASE: [1.1.0](https://github.com/ahmadawais/cli-welcome/compare/1.0.0...1.1.0)
+### RELEASE: [1.1.0](https://github.com/ahmadawais/cli-welcome/compare/1.1.0...1.1.0)
 
-![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
-> 📖 Optional [`d1a3b13`](https://github.com/ahmadawais/cli-welcome/commit/d1a3b136e1b2ca12235ae2e3a7bf2f681874c558) <br>
+> 📦 New Line [`d1a50f7`](https://github.com/ahmadawais/cli-welcome/commit/d1a50f7ffe8c76bf3953889648c257144996ebb7) <br>
+
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Tests [`9bd78dd`](https://github.com/ahmadawais/cli-welcome/commit/9bd78dddb83ab4561d8bce2d70ed3fc8f769e629) <br>
 
 <br>
 
