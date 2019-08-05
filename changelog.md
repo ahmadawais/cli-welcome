@@ -5,13 +5,13 @@ All notable changes in this project's [released versions](../../releases) are do
 [![VSCode](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorB=4D2AFF)](https://VSCode.pro/?utm_source=GitHubFOSS)
 [![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
 
-<br />
+<br>
 
 I have released a video course to help you become a better developer — <a href="https://vscode.pro/?utm_source=GitHubFOSS" target="_blank">Become a VSCode Power User →</a></p>
 
-<a href="https://vscode.pro/?utm_source=GitHubFOSS" target="_blank"><img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/images/vscodepro/VSCode.jpeg" /><br />VSCode</a> →
+<a href="https://vscode.pro/?utm_source=GitHubFOSS" target="_blank"><img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/images/vscodepro/VSCode.jpeg" /><br>VSCode</a> →
 
-<br />
+<br>
 
 [![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
 
@@ -23,11 +23,23 @@ I have released a video course to help you become a better developer — <a href
 
 </small>
 
-<br />
+<br>
 
 [![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
 
-<br />
+<br>
+
+### RELEASE: [1.1.0](https://github.com/ahmadawais/cli-welcome/compare/1.0.0...1.1.0)
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Optional [`d1a3b13`](https://github.com/ahmadawais/cli-welcome/commit/d1a3b136e1b2ca12235ae2e3a7bf2f681874c558) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
 
 ### RELEASE: 1.0.0
 
@@ -36,9 +48,13 @@ I have released a video course to help you become a better developer — <a href
 > 📦 First commit [`4e30864`](https://github.com/ahmadawais/cli-welcome/commit/4e308647e7f79bf9836f00ce7619270254d6a912) <br>
 > 📦 Module [`4db93f3`](https://github.com/ahmadawais/cli-welcome/commit/4db93f3d0f5767e85f2fef244b1c171bf6961efa) <br>
 
-<br />
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
-<br />
+>  📖 Changelog update [`49a0039`](https://github.com/ahmadawais/cli-welcome/commit/49a0039fefe7c4cb3cf110b7087ce3c56ff22649) <br>
+
+<br>
+
+<br>
 
 [![📃](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/license.png)](/)
 
@@ -47,7 +63,7 @@ I have released a video course to help you become a better developer — <a href
 - MIT © [Ahmad Awais](https://twitter.com/MrAhmadAwais/)
 - [Code of Conduct](code-of-conduct.md)
 
-<br />
+<br>
 
 [![🙌](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/connect.png)](/)
 
@@ -61,7 +77,7 @@ I have released a video course to help you become a better developer — <a href
 <p><a href="https://www.linkedin.com/in/MrAhmadAwais/"><img alt="LinkedIn @MrAhmadAwais" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorB=0077b5&colorA=0077b5&style=flat" /></a>&nbsp;<small><strong>(connect)</strong> WITH THE LINKEDIN PROFILE Y'ALL</small></p>
 </div>
 
-<br />
+<br>
 
 [![👌](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/sponsor.png)](/)
 
@@ -74,13 +90,13 @@ Me ([Ahmad Awais](https://twitter.com/mrahmadawais/)) and my incredible wife ([M
 - 🔰  **$49.99 (one-time sponsor)** ❯ [Support an hour of maintenance →](https://pay.paddle.com/checkout/527253)
 - ☕️  **$9.99 (one-time sponsor)** ❯ [Lunch/coffee →](https://pay.paddle.com/checkout/527254)
 
-<br />
+<br>
 
 Or you can back me by checking out my super fun video course. As developers, we spend over 200 Hrs/month with our code editors — it's only fair to learn your next editor deeply. This course will save you 15-20 hours every month.  <a href="https://vscode.pro/?utm_source=GitHubFOSS" target="_blank">Become a VSCode Power User</a> →</p>
 
-<a href="https://vscode.pro/?utm_source=GitHubFOSS" target="_blank"><img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/images/vscodepro/VSCode.jpeg" /><br /><strong>VSCODE</strong></a>
+<a href="https://vscode.pro/?utm_source=GitHubFOSS" target="_blank"><img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/images/vscodepro/VSCode.jpeg" /><br><strong>VSCODE</strong></a>
 
-<br />
+<br>
 
 [![VSCode](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorB=4D2AFF&style=flat)](https://VSCode.pro/?utm_source=GitHubFOSS)
 [![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
