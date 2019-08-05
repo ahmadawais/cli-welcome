@@ -22,8 +22,73 @@ npm install cli-welcome
 ## Usage
 
 ```js
-const cliWelcome = require('cli-welcome');
+const welcome = require('cli-welcome');
+
+// Use it.
+welcome(`Welcome CLI`, `by Ahmad Awais`);
+welcome(`Welcome CLI`, `by Ahmad Awais`, { bgColor: `#FADC00`, color: `#000000` bold: true, clear: true, version: `v1.0`});
 ```
+
+<br />
+
+[![📃](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/options.png)](./../../)
+
+## API
+
+### welcome(heading, subHeading, options?)
+
+#### ❯ heading
+
+Type: `string`
+
+CLI heading with background color highlight.
+
+#### ❯ subHeading
+
+Type: `string`
+
+CLI sub heading without highlight but dimmed.
+
+#### ❯ options
+
+Type: `object`
+
+You can specify the options below.
+
+##### clear
+
+Type: `boolean`
+Default: `true`
+
+Clear console.
+
+##### bold
+
+Type: `boolean`
+Default: `true`
+
+Bold heading text.
+
+##### bgColor
+
+Type: `string`
+Default: `#ffffff`
+
+Background color highlight for `heading`.
+
+##### color
+
+Type: `string`
+Default: `true`
+
+Text color for `heading`.
+
+##### version
+
+Type: `string`
+Default: `` (empty string)
+
+Print version text.
 
 <br />
 
