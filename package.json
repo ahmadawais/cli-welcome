@@ -1,6 +1,6 @@
 {
 	"name": "cli-welcome",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"description": "Welcome header for Node.js CLI software.",
 	"license": "MIT",
 	"repository": "ahmadawais/cli-welcome",
