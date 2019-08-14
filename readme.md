@@ -26,7 +26,7 @@ const welcome = require('cli-welcome');
 
 // Use it.
 welcome(`Welcome CLI`, `by Ahmad Awais`);
-welcome(`Welcome CLI`, `by Ahmad Awais`, { bgColor: `#FADC00`, color: `#000000` bold: true, clear: true, version: `v1.0`});
+welcome(`Welcome CLI`, `by Ahmad Awais`, { bgColor: `#FADC00`, color: `#000000`, bold: true, clear: true, version: `v1.0`});
 ```
 
 ![img](https://on.ahmda.ws/62bbed/c)
