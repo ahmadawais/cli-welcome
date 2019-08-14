@@ -29,11 +29,28 @@ I have released a video course to help you become a better developer — <a href
 
 <br>
 
+### RELEASE: [1.4.0](https://github.com/ahmadawais/cli-welcome/compare/1.3.0...1.4.0)
+
+![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Docs Code [`665f38d`](https://github.com/ahmadawais/cli-welcome/commit/665f38d1bf469013818271984f83c4ecf104a90c) <br>
+> 🐛 Brokern link [`b0a8ce3`](https://github.com/ahmadawais/cli-welcome/commit/b0a8ce3cd9b5e03a7bd9d08ff481cfa26be11b92) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: [1.3.0](https://github.com/ahmadawais/cli-welcome/compare/1.2.0...1.3.0)
 
 ![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
 > 🐛 badge [`0656e3b`](https://github.com/ahmadawais/cli-welcome/commit/0656e3b6e86fa180686ab7182754faa5a532c1d7) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+>  📖 Changelog update [`db27af3`](https://github.com/ahmadawais/cli-welcome/commit/db27af348a04ade3df0c381179342b6721d187e6) <br>
 
 <br>
 
