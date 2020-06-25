@@ -10,9 +10,12 @@ const clearConsole = require('clear-any-console');
  * @param String subHeading Sub heading text.
  * @param Object options Configurable options.
  */
-module.exports = (heading = 'ADD A HEADING', subHeading = '', options = {}) => {
+module.exports = (options = {}) => {
 	// Options.
 	const defaultOptions = {
+		title: 'ADD A HEADING',
+		tagLine: '',
+		description: false,
 		bgColor: '#ffffff',
 		color: '#000000',
 		bold: true,
@@ -20,16 +23,33 @@ module.exports = (heading = 'ADD A HEADING', subHeading = '', options = {}) => {
 		version: '',
 		newLine: ''
 	};
-	const opts = { ...defaultOptions, ...options };
+	const opts = {...defaultOptions, ...options};
+	const {
+		title,
+		tagLine,
+		description,
+		bgColor,
+		color,
+		bold,
+		clear,
+		version,
+		newLine
+	} = opts;
 
 	// Configure.
-	const bg = opts.bold ? chalk.hex(opts.bgColor).inverse.bold : chalk.hex(opts.bgColor).inverse;
-	const clr = opts.bold ? chalk.hex(opts.color).bold : chalk.hex(opts.color);
-	const br = opts.newLine ? '\n\n' : '';
-	opts.clear && clearConsole();
+	const bg = bold
+		? chalk.hex(bgColor).inverse.bold
+		: chalk.hex(bgColor).inverse;
+	const clr = bold ? chalk.hex(color).bold : chalk.hex(color);
+	const br = newLine ? '\n\n' : '';
+	clear && clearConsole();
 
 	// Do it.
 	console.log();
-	console.log(`${clr(`${bg(` ${heading} `)}`)} ${opts.version} ${br}${dim(subHeading)}`);
+	console.log(
+		`${clr(`${bg(` ${title} `)}`)} ${version} ${br}${dim(tagLine)}\n${dim(
+			description
+		)}`
+	);
 	console.log();
 };
