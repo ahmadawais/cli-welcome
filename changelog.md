@@ -32,6 +32,18 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
+### RELEASE: [2.1.0](https://github.com/ahmadawais/cli-welcome/compare/2.0.0...2.1.0)
+
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Options [`fd7d003`](https://github.com/ahmadawais/cli-welcome/commit/fd7d0031ddc7dc9f90da78b5125962bdcca7bdac) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: [2.0.0](https://github.com/ahmadawais/cli-welcome/compare/1.4.0...2.0.0)
 
 ![BREAKING](https://img.shields.io/badge/-BREAKING%20CHANGES-gray.svg?colorB=F91800)
@@ -40,6 +52,7 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 ![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
+> 📖 Changelog [`6a85d02`](https://github.com/ahmadawais/cli-welcome/commit/6a85d021cf35ca060a7fb1665238b4a9e2d36223) <br>
 > 📖 Title, Tag Line, Description [`7bbc45d`](https://github.com/ahmadawais/cli-welcome/commit/7bbc45d1bd6d4b8c4d7c993fdfbc0608cda56c4d) <br>
 
 <br>
