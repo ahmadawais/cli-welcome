@@ -25,8 +25,18 @@ npm install cli-welcome
 const welcome = require('cli-welcome');
 
 // Use it.
-welcome(`Welcome CLI`, `by Ahmad Awais`);
-welcome(`Welcome CLI`, `by Ahmad Awais`, { bgColor: `#FADC00`, color: `#000000`, bold: true, clear: true, version: `v1.0`});
+welcome({title: `Welcome CLI`, tagLine: `by Ahmad Awais`});
+
+// OR with all the options set like this:
+welcome({
+	title: `Welcome CLI`,
+	tagLine: `by Ahmad Awais`,
+	bgColor: `#FADC00`,
+	color: `#000000`,
+	bold: true,
+	clear: true,
+	version: `v1.0`
+});
 ```
 
 ![img](https://on.ahmda.ws/62bbed/c)
@@ -37,26 +47,32 @@ welcome(`Welcome CLI`, `by Ahmad Awais`, { bgColor: `#FADC00`, color: `#000000`,
 
 ## API
 
-### welcome(heading, subHeading, options?)
-
-#### ❯ heading
-
-Type: `string`
-
-CLI heading with background color highlight.
-
-#### ❯ subHeading
-
-Type: `string`
-
-CLI sub heading without highlight but dimmed.
+### welcome(options)
 
 #### ❯ options
 
 Type: `object`<br>
-Default: `{}` (optional)
+Default: `{}`
 
 You can specify the options below.
+
+##### ❯ title
+
+Type: `string`
+
+CLI title with background color highlight.
+
+##### ❯ tagLine
+
+Type: `string`
+
+CLI tag line in front of the title without highlight but dimmed.
+
+##### ❯ description
+
+Type: `string`
+
+CLI description below the title.
 
 ##### clear
 
