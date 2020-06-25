@@ -56,63 +56,58 @@ Default: `{}`
 
 You can specify the options below.
 
-##### ❯ title
+#### ❯ title
 
 Type: `string`
 
 CLI title with background color highlight.
 
-##### ❯ tagLine
+#### ❯ tagLine
 
 Type: `string`
 
 CLI tag line in front of the title without highlight but dimmed.
 
-##### ❯ description
+#### ❯ description
 
 Type: `string`
 
 CLI description below the title.
 
-##### clear
+#### clear
 
 Type: `boolean`<br>
 Default: `true`
 
 Clear console.
 
-##### bold
+#### bold
 
 Type: `boolean`<br>
 Default: `true`
 
 Bold heading text.
 
-##### bgColor
+#### bgColor
 
 Type: `string`<br>
 Default: `#ffffff`
 
 Background color highlight for `heading`.
 
-##### color
+#### color
 
 Type: `string`<br>
 Default: `true`
 
 Text color for `heading`.
 
-##### version
+#### version
 
 Type: `string`<br>
 Default: `(empty string)`
 
 Print version text.
-
-##### newLine
-
-Type: `boolean`<br>
-Default: `false`
 
 <br>
 

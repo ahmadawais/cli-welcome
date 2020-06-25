@@ -15,13 +15,12 @@ module.exports = (options = {}) => {
 	const defaultOptions = {
 		title: 'ADD A HEADING',
 		tagLine: '',
-		description: false,
+		description: '',
 		bgColor: '#ffffff',
 		color: '#000000',
 		bold: true,
 		clear: true,
-		version: '',
-		newLine: ''
+		version: ''
 	};
 	const opts = {...defaultOptions, ...options};
 	const {
@@ -32,8 +31,7 @@ module.exports = (options = {}) => {
 		color,
 		bold,
 		clear,
-		version,
-		newLine
+		version
 	} = opts;
 
 	// Configure.
@@ -41,13 +39,12 @@ module.exports = (options = {}) => {
 		? chalk.hex(bgColor).inverse.bold
 		: chalk.hex(bgColor).inverse;
 	const clr = bold ? chalk.hex(color).bold : chalk.hex(color);
-	const br = newLine ? '\n\n' : '';
 	clear && clearConsole();
 
 	// Do it.
 	console.log();
 	console.log(
-		`${clr(`${bg(` ${title} `)}`)} ${version} ${br}${dim(tagLine)}\n${dim(
+		`${clr(`${bg(` ${title} `)}`)} ${version} ${dim(tagLine)}\n${dim(
 			description
 		)}`
 	);

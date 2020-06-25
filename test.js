@@ -4,9 +4,11 @@ const welcome = require('./index.js');
 welcome({
 	title: `Welcome CLI`,
 	tagLine: `by Awais.dev`,
-	description: `This is a description.`,
+	description: `Create a welcome message for your CLI.`,
 	bgColor: `#FADC00`,
 	color: `#000000`,
+	bold: true,
+	clear: true,
 	version: `v1.0`
 });
 
