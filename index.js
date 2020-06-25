@@ -44,7 +44,7 @@ module.exports = (options = {}) => {
 	// Do it.
 	console.log();
 	console.log(
-		`${clr(`${bg(` ${title} `)}`)} ${version} ${dim(tagLine)}\n${dim(
+		`${clr(`${bg(` ${title} `)}`)} v${version} ${dim(tagLine)}\n${dim(
 			description
 		)}`
 	);
