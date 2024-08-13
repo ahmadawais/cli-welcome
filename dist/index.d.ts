@@ -1,7 +1,8 @@
+import chalk from 'chalk';
+import clearConsole from 'clear-any-console';
+
 /* CLI WELCOME */
-import chalk from "chalk";
 const dim = chalk.dim;
-import clearConsole from "clear-any-console";
 
 /**
  * Welcome.
@@ -10,7 +11,7 @@ import clearConsole from "clear-any-console";
  * @param String subHeading Sub heading text.
  * @param Object options Configurable options.
  */
-export default (options = {}) => {
+var index = (options = {}) => {
 	// Options.
 	const defaultOptions = {
 		title: 'ADD A HEADING',
@@ -50,3 +51,5 @@ export default (options = {}) => {
 	);
 	console.log();
 };
+
+export { index as default };

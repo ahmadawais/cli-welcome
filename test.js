@@ -1,4 +1,4 @@
-const welcome = require('./index.js');
+import welcome from './index.js';
 
 // Use it.
 welcome({
@@ -9,7 +9,7 @@ welcome({
 	color: `#000000`,
 	bold: true,
 	clear: true,
-	version: `v1.0`
+	version: `1.0`
 });
 
 console.log(`\n\n\n\n\n`);
