@@ -45,11 +45,32 @@ All notable changes in this project's [released versions](../../releases) are do
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
+### RELEASE: [3.0.1](https://github.com/ahmadawais/cli-welcome/compare/3.0.0...3.0.1)
+
+![📦 NEW:](https://img.shields.io/badge/📦-NEW-gray.svg?colorA=238635&colorB=238635&style=for-the-badge)
+
+> 📦 internal:tests [`5dfd27b`](https://github.com/ahmadawais/cli-welcome/commit/5dfd27b779e7c2745ec6956460cb3af8762ed8cd)
+
+![🐛 FIX:](https://img.shields.io/badge/🐛-FIX-gray.svg?colorA=BC4C00&colorB=BC4C00&style=for-the-badge)
+
+> 🐛 Sync .gitignore [`a61f32e`](https://github.com/ahmadawais/cli-welcome/commit/a61f32e2c056268c357a2638575dd060cb16503d)
+
+<br>
+
+<br>
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
+<br>
+
 ### RELEASE: [3.0.0](https://github.com/ahmadawais/cli-welcome/compare/2.2.3...3.0.0)
 
 ![BREAKING](https://img.shields.io/badge/‼️-BREAKING%20CHANGES-gray.svg?colorA=CF222F&colorB=CF222F&style=for-the-badge)
 
 > ‼️ Require no longer supported moving to ESM based syntax [`3f9f4b3`](https://github.com/ahmadawais/cli-welcome/commit/3f9f4b350a52fab293552da7fc7cef008a829ff9)
+
+![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
+
+> 📖 Changelog [`f2fb3de`](https://github.com/ahmadawais/cli-welcome/commit/f2fb3de30e5c3b588737d4f81cc41b9413935708)
 
 <br>
 
