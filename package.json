@@ -20,7 +20,7 @@
 		"ahmadawais"
 	],
 	"scripts": {
-		"test": "node test.js",
+		"test": "cmd -p \"/review\"",
 		"format": "prettier --write \"./**/*.{js,json}\"",
 		"dev": "npm run build -- --watch",
 		"build": "tsup index.js --format cjs,esm --dts --sourcemap --clean --minify --shims",
@@ -29,6 +29,7 @@
 	"dependencies": {
 		"chalk": "^5.3.0",
 		"clear-any-console": "^1.16.0",
+		"command-code": "*",
 		"langbase": "*"
 	},
 	"devDependencies": {
