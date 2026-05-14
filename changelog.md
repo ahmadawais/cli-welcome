@@ -1,3 +1,12 @@
+# Changelog
+
+## [3.0.2](https://github.com/ahmadawais/cli-welcome/compare/3.0.1...3.0.2) (2026-05-14)
+
+### Features
+
+* wip adding harness testing ([4c0fe3b](https://github.com/ahmadawais/cli-welcome/commit/4c0fe3b3e8459c5be910aac8d6ee4d52e8a5b3df))
+* wip: command auto review workflow ([d7b6b21](https://github.com/ahmadawais/cli-welcome/commit/d7b6b2188ec604ea5889b5bae256f1a8058d3c54))
+
 # CHANGELOG
 
 [![Twitter @MrAhmadAwais](https://img.shields.io/badge/Twitter-@MrAhmadAwais-gray.svg?colorA=21262D&colorB=30363D&style=for-the-badge)](https://twitter.com/MrAhmadAwais/) [![LinkedIn @MrAhmadAwais](https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=21262D&colorB=30363D&style=for-the-badge)](https://www.linkedin.com/in/MrAhmadAwais/) [![YouTube AhmadAwais](https://img.shields.io/badge/YOUTUBE-gray.svg?colorA=21262D&colorB=30363D&style=for-the-badge)](https://youtube.com/AhmadAwais?sub_confirmation=1) [![Blog: AhmadAwais.com](https://img.shields.io/badge/-MY%20BLOG-gray.svg?colorA=21262D&colorB=30363D&style=for-the-badge)](https://AhmadAwais.com/) [![GitHub @AhmadAwais](https://img.shields.io/badge/-GitHub-gray.svg?colorA=21262D&colorB=30363D&style=for-the-badge)](https://github.com/ahmadawais)
