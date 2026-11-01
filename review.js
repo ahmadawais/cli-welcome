@@ -1,17 +1,15 @@
-// TODO: Auto review with command-code for open source pkgs. Very much WIP.
-(async () => {
-	process.argv = [
-		process.argv[0],
-		require.resolve('command-code'),
-		'-p',
-		'/review changes and rate the changes 1-5, no exploring',
-		'--yolo',
-		'--verbose'
-	];
+// Auto review with command-code (/review). Runs the downloaded cmd CLI.
+import path from 'path';
+import {spawnSync} from 'child_process';
+import {createRequire} from 'module';
 
-	try {
-		await import('command-code');
-	} catch (err) {
-		// cmd exited non-zero, that's fine
-	}
-})();
+const require = createRequire(import.meta.url);
+const pkgPath = require.resolve('command-code/package.json');
+const {bin} = require(pkgPath);
+const cmdBin = path.join(path.dirname(pkgPath), typeof bin === 'string' ? bin : bin['command-code']);
+
+spawnSync(
+	process.execPath,
+	[cmdBin, '-p', '/review changes and rate the changes 1-5, no exploring', '--yolo', '--verbose'],
+	{stdio: 'inherit'}
+);
